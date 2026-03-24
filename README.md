@@ -1,4 +1,3 @@
-### Kandkkekaar Sai Tej
 <div align="center">
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,30:0a192f,70:112240,100:0d1117&height=220&section=header&text=Kandkkekaar%20SaiTej&fontSize=56&fontColor=64ffda&animation=fadeIn&fontAlignY=60&desc=AI%20%26%20ML%20Engineer%20%E2%80%A2%20Published%20Researcher%20%E2%80%A2%20Edge-AI%20Specialist&descAlignY=80&descSize=16&descColor=8892b0"/>
