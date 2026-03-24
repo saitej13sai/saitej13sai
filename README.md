@@ -1,11 +1,11 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,30:0a192f,70:112240,100:0d1117&height=220&section=header&text=Kandkkekaar%20SaiTej&fontSize=56&fontColor=64ffda&animation=fadeIn&fontAlignY=60&desc=AI%20%26%20ML%20Engineer%20%E2%80%A2%20Published%20Researcher%20%E2%80%A2%20Edge-AI%20Specialist&descAlignY=80&descSize=16&descColor=8892b0"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:0d1117,30:0a192f,70:112240,100:0d1117&amp;height=220&amp;section=header&amp;text=Kandkkekaar%20SaiTej&amp;fontSize=56&amp;fontColor=64ffda&amp;animation=fadeIn&amp;fontAlignY=60&amp;desc=AI%20%26%20ML%20Engineer%20%E2%80%A2%20Published%20Researcher%20%E2%80%A2%20Edge-AI%20Specialist&amp;descAlignY=80&amp;descSize=16&amp;descColor=8892b0"/>
 
 <br/>
 
 <a href="https://readme-typing-svg.demolab.com">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3500&pause=800&color=64FFDA&center=true&vCenter=true&width=650&lines=Building+Intelligent+Systems+%F0%9F%A4%96;Edge+AI+%7C+Computer+Vision+%7C+Deep+Learning;Wiley+Published+Researcher+%E2%80%94+2025;Turning+Research+into+Real-World+Impact" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;weight=500&amp;size=20&amp;duration=3500&amp;pause=800&amp;color=64FFDA&amp;center=true&amp;vCenter=true&amp;width=650&amp;lines=Building+Intelligent+Systems+%F0%9F%A4%96;Edge+AI+%7C+Computer+Vision+%7C+Deep+Learning;Wiley+Published+Researcher+%E2%80%94+2025;Turning+Research+into+Real-World+Impact" alt="Typing SVG" />
 </a>
 
 <br/><br/>
@@ -61,7 +61,7 @@ Developed an **edge-AI computer vision pipeline** that detects road hazards in r
 
 <br/>
 
-`Computer Vision` &nbsp;·&nbsp; `Edge AI` &nbsp;·&nbsp; `YOLOv8` &nbsp;·&nbsp; `Smart Infrastructure` &nbsp;·&nbsp; `Road Safety` &nbsp;·&nbsp; `Embedded Systems`
+`Computer Vision` · `Edge AI` · `YOLOv8` · `Smart Infrastructure` · `Road Safety` · `Embedded Systems`
 
 <br/>
 
@@ -179,7 +179,7 @@ Explore **61+ repositories** spanning machine learning, web development, compute
 
 <div align="center">
 
-<img height="175em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=saitej13sai&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=64ffda&text_color=8892b0"/>
+<img height="175em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=saitej13sai&amp;layout=compact&amp;theme=tokyonight&amp;hide_border=true&amp;bg_color=0d1117&amp;title_color=64ffda&amp;text_color=8892b0"/>
 
 </div>
 
@@ -218,5 +218,5 @@ Explore **61+ repositories** spanning machine learning, web development, compute
 ---
 
 <div align="center">
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:112240,100:64ffda&height=120&section=footer"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:0d1117,50:112240,100:64ffda&amp;height=120&amp;section=footer"/>
 </div>
