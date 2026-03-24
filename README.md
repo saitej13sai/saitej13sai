@@ -18,8 +18,6 @@
 <br/>
 
 ![Profile Views](https://komarev.com/ghpvc/?username=saitej13sai&label=Profile+Views&color=64ffda&style=flat-square)
-![Repos](https://img.shields.io/badge/Repositories-61+-64ffda?style=flat-square&logo=github&logoColor=white&labelColor=0d1117)
-![Focus](https://img.shields.io/badge/Focus-Edge_AI_%26_CV-a78bfa?style=flat-square&labelColor=0d1117)
 
 </div>
 
@@ -27,25 +25,7 @@
 
 ## 👨‍💻 About Me
 
-```yaml
-name        : Kandkkekaar SaiTej
-location    : Hyderabad, Telangana, India 🇮🇳
-role        : AI & ML Research Engineer
-organization: Behaviour Education Services
-
-focus_areas :
-  - Edge AI & Embedded Intelligence
-  - Computer Vision & Object Detection
-  - Smart City Infrastructure
-  - Generative AI Systems
-
-currently   :
-  - 🔬 Researching road-safety AI solutions
-  - 🚗 Exploring AI in automotive tech
-  - 🧠 Fine-tuning LLMs for real-world deployment
-
-published_in: "Digital Cities (Wiley), 2025 — Pages 461–477"
-```
+**Kandkkekaar SaiTej** · Hyderabad, Telangana, India 🇮🇳
 
 ---
 
@@ -192,7 +172,6 @@ Explore **61+ repositories** spanning machine learning, web development, compute
 
 <div align="center">
 
-<img height="175em" src="https://github-readme-stats.vercel.app/api?username=saitej13sai&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=64ffda&icon_color=64ffda&text_color=8892b0"/>
 <img height="175em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=saitej13sai&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=64ffda&text_color=8892b0"/>
 
 </div>
