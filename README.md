@@ -41,11 +41,10 @@ focus_areas:
 
 currently:
   - 🔬 Researching road-safety AI solutions
-  - 🏋️ Coaching at the gym — Physical & Artificial Intelligence
   - 🚗 Exploring AI in automotive tech
+  - 🧠 Fine-tuning LLMs for real-world deployment
 
 published_in: "Digital Cities (Wiley), 2025"
-fun_fact: "I train neural networks AND humans 💪"
 ```
 
 <br clear="right"/>
@@ -200,27 +199,6 @@ Explore **61+ repositories** spanning machine learning, web development, compute
 <div align="center">
 
 [![Trophies](https://github-profile-trophy.vercel.app/?username=saitej13sai&theme=darkhub&no-frame=true&no-bg=true&column=7&rank=SECRET,SSS,SS,S,AAA,AA,A,B)](https://github.com/ryo-ma/github-profile-trophy)
-
-</div>
-
----
-
-## ⚡ Beyond the Code
-
-<div align="center">
-
-```
-╔══════════════════════════════════════════════════════════════╗
-║          PHYSICAL INTELLIGENCE  ×  ARTIFICIAL INTELLIGENCE  ║
-║                                                              ║
-║   🏋️  Certified Gym Coach     🤖  AI/ML Research Engineer   ║
-║                                                              ║
-║   The same discipline that builds muscle builds models.      ║
-║   Progressive overload. Iterate. Push beyond limits.        ║
-╚══════════════════════════════════════════════════════════════╝
-```
-
-**Currently Exploring:** Smart City AI · Automotive Edge Intelligence · LLM Fine-tuning
 
 </div>
 
