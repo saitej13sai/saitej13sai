@@ -1,11 +1,11 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:0d1117,30:0a192f,70:112240,100:0d1117&amp;height=220&amp;section=header&amp;text=Kandkkekaar%20SaiTej&amp;fontSize=56&amp;fontColor=64ffda&amp;animation=fadeIn&amp;fontAlignY=60&amp;desc=AI%20%26%20ML%20Engineer%20%E2%80%A2%20Published%20Researcher%20%E2%80%A2%20Edge-AI%20Specialist&amp;descAlignY=80&amp;descSize=16&amp;descColor=8892b0"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,30:0a192f,70:112240,100:0d1117&height=220&section=header&text=Kandkkekaar%20SaiTej&fontSize=56&fontColor=64ffda&animation=fadeIn&fontAlignY=60&desc=AI%20%26%20ML%20Engineer%20%E2%80%A2%20Published%20Researcher%20%E2%80%A2%20Edge-AI%20Specialist&descAlignY=80&descSize=16&descColor=8892b0"/>
 
 <br/>
 
-<a href="https://readme-typing-svg.demolab.com">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;weight=500&amp;size=20&amp;duration=3500&amp;pause=800&amp;color=64FFDA&amp;center=true&amp;vCenter=true&amp;width=650&amp;lines=Building+Intelligent+Systems+%F0%9F%A4%96;Edge+AI+%7C+Computer+Vision+%7C+Deep+Learning;Wiley+Published+Researcher+%E2%80%94+2025;Turning+Research+into+Real-World+Impact" alt="Typing SVG" />
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3500&pause=800&color=64FFDA&center=true&vCenter=true&width=650&lines=Building+Intelligent+Systems+%F0%9F%A4%96;Edge+AI+%7C+Computer+Vision+%7C+Deep+Learning;Wiley+Published+Researcher+%E2%80%94+2025;Turning+Research+into+Real-World+Impact" alt="Typing SVG" />
 </a>
 
 <br/><br/>
@@ -15,24 +15,15 @@
 [![GitHub](https://img.shields.io/badge/GitHub-saitej13sai-ffffff?style=for-the-badge&logo=github&logoColor=white&labelColor=0d1117)](https://github.com/saitej13sai)
 [![Publication](https://img.shields.io/badge/Wiley-Published_2025-E6331A?style=for-the-badge&logo=wiley&logoColor=white&labelColor=0d1117)](https://doi.org/10.1002/9781394233823.ch30)
 
-
 </div>
 
 ---
 
 ## 🧠 About Me
 
-### Kandkkekaar Sai Tej
-
-I design and deploy practical, automation-focused AI applications that solve real business problems.
-My work streamlines operations across:
-
-- 📊 Data intake and reporting pipelines
-- 👥 Recruitment and employee productivity
-- 💬 Customer Support, Quality Assurance, Client and Internal communications
-- ⚙️ Productivity platforms, Smart Assistants, and Task Automation Tools
-- 🗣️ Voice & Live Assistants
-- 📚 RAG-based tools for document search and knowledge assistants
+Hi, I'm **Kandkkekaar Sai Tej** — an AI Engineer specializing in Machine Learning, Generative AI, and Computer Vision.  
+I build scalable AI systems including RAG pipelines, intelligent assistants, and real-time detection solutions.  
+Passionate about applying AI to solve real-world problems in healthcare, smart cities, and automation.
 
 ---
 
@@ -125,7 +116,6 @@ Developed an **edge-AI computer vision pipeline** that detects road hazards in r
 
 [![Stars](https://img.shields.io/github/stars/saitej13sai/AI-assitant-with-Opencv?style=flat-square&color=64ffda&logo=github&logoColor=white)](https://github.com/saitej13sai/AI-assitant-with-Opencv/stargazers)
 [![Forks](https://img.shields.io/github/forks/saitej13sai/AI-assitant-with-Opencv?style=flat-square&color=64ffda&logo=git&logoColor=white)](https://github.com/saitej13sai/AI-assitant-with-Opencv/network/members)
-[![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)](https://github.com/saitej13sai/AI-assitant-with-Opencv)
 
 A **multi-functional voice-activated personal assistant** powered by Generative AI and computer vision. Features real-time face recognition, NLP, and intelligent automation.
 
@@ -137,7 +127,6 @@ A **multi-functional voice-activated personal assistant** powered by Generative 
 ### 🗺️ [Sai-Map](https://github.com/saitej13sai/sai-map)
 
 [![View Repo](https://img.shields.io/badge/View_Repo-0d1117?style=flat-square&logo=github&logoColor=white)](https://github.com/saitej13sai/sai-map)
-[![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white)](https://github.com/saitej13sai/sai-map)
 
 An **interactive mapping and visualization interface** built for spatial data representation and real-time location intelligence.
 
@@ -151,7 +140,6 @@ An **interactive mapping and visualization interface** built for spatial data re
 ### 🛣️ Pothole Detection System
 
 [![Published](https://img.shields.io/badge/Wiley_Published-2025-E6331A?style=flat-square&logo=wiley&logoColor=white)](https://doi.org/10.1002/9781394233823.ch30)
-[![DOI](https://img.shields.io/badge/DOI-10.1002-0072B2?style=flat-square&logo=doi&logoColor=white)](https://doi.org/10.1002/9781394233823.ch30)
 
 **Research-grade edge-AI pipeline** for real-time road hazard detection and smart navigation alerts. Deployed using embedded computer vision on mobile devices.
 
@@ -179,7 +167,7 @@ Explore **61+ repositories** spanning machine learning, web development, compute
 
 <div align="center">
 
-<img height="175em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=saitej13sai&amp;layout=compact&amp;theme=tokyonight&amp;hide_border=true&amp;bg_color=0d1117&amp;title_color=64ffda&amp;text_color=8892b0"/>
+<img height="175em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=saitej13sai&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=64ffda&text_color=8892b0"/>
 
 </div>
 
@@ -218,5 +206,5 @@ Explore **61+ repositories** spanning machine learning, web development, compute
 ---
 
 <div align="center">
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:0d1117,50:112240,100:64ffda&amp;height=120&amp;section=footer"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:112240,100:64ffda&height=120&section=footer"/>
 </div>
