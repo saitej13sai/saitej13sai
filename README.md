@@ -1,3 +1,4 @@
+### Kandkkekaar Sai Tej
 <div align="center">
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,30:0a192f,70:112240,100:0d1117&height=220&section=header&text=Kandkkekaar%20SaiTej&fontSize=56&fontColor=64ffda&animation=fadeIn&fontAlignY=60&desc=AI%20%26%20ML%20Engineer%20%E2%80%A2%20Published%20Researcher%20%E2%80%A2%20Edge-AI%20Specialist&descAlignY=80&descSize=16&descColor=8892b0"/>
@@ -15,17 +16,24 @@
 [![GitHub](https://img.shields.io/badge/GitHub-saitej13sai-ffffff?style=for-the-badge&logo=github&logoColor=white&labelColor=0d1117)](https://github.com/saitej13sai)
 [![Publication](https://img.shields.io/badge/Wiley-Published_2025-E6331A?style=for-the-badge&logo=wiley&logoColor=white&labelColor=0d1117)](https://doi.org/10.1002/9781394233823.ch30)
 
-<br/>
-
-![Profile Views](https://komarev.com/ghpvc/?username=saitej13sai&label=Profile+Views&color=64ffda&style=flat-square)
 
 </div>
 
 ---
 
-## 👨‍💻 About Me
+## 🧠 About Me
 
-**Kandkkekaar SaiTej** · Hyderabad, Telangana, India 🇮🇳
+### Kandkkekaar Sai Tej
+
+I design and deploy practical, automation-focused AI applications that solve real business problems.
+My work streamlines operations across:
+
+- 📊 Data intake and reporting pipelines
+- 👥 Recruitment and employee productivity
+- 💬 Customer Support, Quality Assurance, Client and Internal communications
+- ⚙️ Productivity platforms, Smart Assistants, and Task Automation Tools
+- 🗣️ Voice & Live Assistants
+- 📚 RAG-based tools for document search and knowledge assistants
 
 ---
 
@@ -185,16 +193,6 @@ Explore **61+ repositories** spanning machine learning, web development, compute
 <div align="center">
 
 [![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=saitej13sai&bg_color=0d1117&color=64ffda&line=64ffda&point=ffffff&area_color=112240&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-</div>
-
----
-
-## 🏅 Achievements & Trophies
-
-<div align="center">
-
-[![Trophies](https://github-profile-trophy.vercel.app/?username=saitej13sai&theme=darkhub&no-frame=true&no-bg=true&column=7&rank=SECRET,SSS,SS,S,AAA,AA,A,B)](https://github.com/ryo-ma/github-profile-trophy)
 
 </div>
 
