@@ -1,40 +1,48 @@
-<h1 align="center">Hi 👋, I'm Sai Tej</h1>
-<h3 align="center">AI Engineer | Data Scientist | GenAI Specialist</h3>
+# 🚀 Kandkkekaar SaiTej
+### AI & ML Research Engineer | Published Author | Gym Coach
 
 <p align="center">
-🚀 Building Intelligent Systems with AI, ML & LLMs  
+  <a href="https://saitej13sai.github.io/"><b>🌐 Portfolio</b></a> • 
+  <a href="https://www.linkedin.com/in/kandkkekaar-sai-tej-728689239/"><b>💼 LinkedIn</b></a> • 
+  <a href="https://doi.org/10.1002/9781394233823.ch30"><b>📖 Publication</b></a>
 </p>
 
 ---
 
-## 🧠 About Me
-- 🔭 Working on **AI-powered applications & RAG pipelines**
-- 🌱 Exploring **Advanced LLMs, Agents & Scalable AI Systems**
-- 💡 Passionate about **solving real-world problems using AI**
-- 🎯 Targeting roles in **AI Engineer | ML Engineer | Data Scientist**
+### 🎓 Research & Publications
+**[Real-Time Detection and Alert System for Potholes and Speed Breakers](https://doi.org/10.1002/9781394233823.ch30)** *Published in **Digital Cities** (Wiley), 2025 | Pages 461–477* > Developed an edge-AI solution for road safety using computer vision to provide real-time navigation alerts.
 
 ---
 
-## 🌐 Connect With Me
-<p align="left">
-<a href="https://www.linkedin.com/in/kandkkekaar-sai-tej-728689239/" target="blank">
-<img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" />
-</a>
-<a href="https://github.com/saitej13sai" target="blank">
-<img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github" />
-</a>
-<a href="https://saitej13sai.github.io/" target="blank">
-<img src="https://img.shields.io/badge/Portfolio-orange?style=for-the-badge&logo=firefox" />
-</a>
+### 🛠️ Core Expertise
+<div align="left">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
+  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
+</div>
+
+---
+
+### 📊 Engineering Metrics
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=saitej13sai&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=saitej13sai&layout=compact&theme=tokyonight" />
 </p>
 
 ---
 
-## ⚡ Tech Stack
-```yaml
-Languages: Python, SQL
-AI/ML: Machine Learning, Deep Learning, NLP
-GenAI: LLMs, RAG, LangChain, FAISS
-Frameworks: PyTorch, TensorFlow, Scikit-learn
-Cloud: Azure, GCP
-Tools: Docker, FastAPI, Streamlit
+### 📂 Featured Repositories
+* **[AI-assistant-with-Opencv](https://github.com/saitej13sai/AI-assitant-with-Opencv)**: A sophisticated voice-activated assistant with GenAI capabilities.
+* **[Sai-Map](https://github.com/saitej13sai/sai-map)**: Interactive mapping and visualization interface.
+
+---
+
+### ⚡ Beyond the Code
+I believe in **Physical & Artificial Intelligence**.  
+As a **Gym Coach**, I apply the same discipline to my fitness routines as I do to training neural networks. I am currently exploring the intersection of AI in smart city infrastructure and automotive tech.
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=100&section=footer" />
+</p>
