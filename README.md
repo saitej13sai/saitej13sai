@@ -1,14 +1,12 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,30:0a192f,70:112240,100:0d1117&height=220&section=header&text=Kandkkekaar%20SaiTej&fontSize=56&fontColor=64ffda&animation=fadeIn&fontAlignY=60&desc=AI%20%26%20ML%20Engineer%20%E2%80%A2%20Published%20Researcher%20%E2%80%A2%20Edge-AI%20Specialist&descAlignY=80&descSize=16&descColor=8892b0"/>
-
-<br/>
+# Kandkkekaar Sai Tej
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3500&pause=800&color=64FFDA&center=true&vCenter=true&width=650&lines=Building+Intelligent+Systems+%F0%9F%A4%96;Edge+AI+%7C+Computer+Vision+%7C+Deep+Learning;Wiley+Published+Researcher+%E2%80%94+2025;Turning+Research+into+Real-World+Impact" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3500&pause=800&color=64FFDA&center=true&vCenter=true&width=700&lines=AI+%26+ML+Engineer;Published+Researcher;Edge-AI+Specialist;Building+Intelligent+Systems+%F0%9F%A4%96" alt="Typing SVG" />
 </a>
 
-<br/><br/>
+<br/>
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-saitej13sai.github.io-64ffda?style=for-the-badge&logo=githubpages&logoColor=0d1117&labelColor=0d1117)](https://saitej13sai.github.io/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Kandkkekaar_SaiTej-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0d1117)](https://www.linkedin.com/in/kandkkekaar-sai-tej-728689239/)
@@ -201,10 +199,4 @@ Explore **61+ repositories** spanning machine learning, web development, compute
 
 <br/>
 
-</div>
-
----
-
-<div align="center">
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:112240,100:64ffda&height=120&section=footer"/>
 </div>
