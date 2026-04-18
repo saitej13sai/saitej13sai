@@ -8,8 +8,6 @@
 
 <br/>
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-saitej13sai.github.io-64ffda?style=for-the-badge&logo=githubpages&logoColor=0d1117&labelColor=0d1117)](https://saitej13sai.github.io/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Kandkkekaar_SaiTej-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0d1117)](https://www.linkedin.com/in/kandkkekaar-sai-tej-728689239/)
 [![GitHub](https://img.shields.io/badge/GitHub-saitej13sai-ffffff?style=for-the-badge&logo=github&logoColor=white&labelColor=0d1117)](https://github.com/saitej13sai)
 [![Publication](https://img.shields.io/badge/Wiley-Published_2025-E6331A?style=for-the-badge&logo=wiley&logoColor=white&labelColor=0d1117)](https://doi.org/10.1002/9781394233823.ch30)
 
